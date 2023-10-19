@@ -1,0 +1,14 @@
+Name: John
+Phone Number: 123456789
+Cake Type: Apple
+Cake Size: Small
+Free Delivery: true
+--------------------
+
+Name: Anna
+Phone Number: 7897972874
+Cake Type: Chocolate
+Cake Size: Large
+Free Delivery: false
+--------------------
+
